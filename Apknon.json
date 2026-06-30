@@ -2,32 +2,32 @@
   {
     "name": "Global arm64-v8a",
     "desc": "Axion Bypass 64 Bit",
-    "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
+    "version": "4.4.0",
+    "url": "https://github.com/Eslam686/axionbypass/releases/download/axion/AxionGL.apk",
     "enabled": true,
     "package": "com.tencent.ig"
   },
   {
     "name": "Korean arm64-v8a",
     "desc": "Axion Bypass 64 Bit",
-    "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
+    "version": "4.4.0",
+    "url": "https://github.com/Eslam686/axionbypass/releases/download/axion/AxionKR.apk",
     "enabled": true,
     "package": "com.pubg.krmobile"
   },
   {
     "name": "Taiwan arm64-v8a",
     "desc": "Axion Bypass 64 Bit",
-    "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
+    "version": "4.4.0",
+    "url": "https://github.com/Eslam686/axionbypass/releases/download/axion/AxionTW.apk",
     "enabled": true,
     "package": "com.rekoo.pubgm"
   },
   {
     "name": "Vng armeabi-v8a",
     "desc": "Axion Bypass 64 Bit",
-    "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
+    "version": "4.4.0",
+    "url": "https://github.com/Eslam686/axionbypass/releases/download/axion/AxionVNG.apk",
     "enabled": true,
     "package": "com.vng.pubgmobile"
   }
